@@ -1,7 +1,7 @@
 [features]
 seeds = false
 [programs.devnet]
-calculator = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+calculator = "8UmDMaghFgLMnQXZXYnNJb2Uxpk1NUHMBo5ZbkeFYmwA"
 
 [registry]
 url = "https://anchor.projectserum.com"
