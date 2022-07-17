@@ -1,10 +1,11 @@
 [features]
 seeds = false
+skip-lint = false
 [programs.devnet]
-calculator = "8UmDMaghFgLMnQXZXYnNJb2Uxpk1NUHMBo5ZbkeFYmwA"
+calculator = "3E7U3DA7oLxDS4LN7fVpLfouuYka4jSuoq2a4pdLkVux"
 
 [registry]
-url = "https://anchor.projectserum.com"
+url = "https://api.apr.dev"
 
 [provider]
 cluster = "devnet"
