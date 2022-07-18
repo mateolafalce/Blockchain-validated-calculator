@@ -16,8 +16,8 @@ describe("calculator", () => {
 
     const txSignature = await program.rpc.initialize(
       provider.wallet.publicKey, //Owner Key
-      add1 = new anchor.BN(2), //add1
-      add2 = new anchor.BN(45), //add2
+      new anchor.BN(2), //add1
+      new anchor.BN(45), //add2
       new anchor.BN(78), //div1
       new anchor.BN(9), //div2
       new anchor.BN(75), //sub1
