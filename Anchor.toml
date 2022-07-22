@@ -2,7 +2,7 @@
 seeds = false
 skip-lint = false
 [programs.devnet]
-calculator = "3E7U3DA7oLxDS4LN7fVpLfouuYka4jSuoq2a4pdLkVux"
+calculator = "CVtb3RNs78UqttMd2Wmr33r7k5fo9bv5uAHBMpnqw8Fi"
 
 [registry]
 url = "https://api.apr.dev"
